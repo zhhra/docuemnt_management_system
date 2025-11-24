@@ -1,0 +1,1 @@
+from .strict_model_permission import StrictModelPermission
